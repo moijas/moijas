@@ -32,19 +32,13 @@ Let’s connect and build something impactful together!
 - [**Nexus**](https://github.com/moijas/Nexus)                               
   Production-grade platform that automates code review workflows using FastAPI, Python, OpenAI (GPT-4), and seamless GitHub integration.
 
-- [**Healthcare Multi-Agent System**](https://github.com/nadipaca/healthcare-multi-agent)  
+- [**Nspiration Pro**](https://github.com/moijas/Nspirationpro)  
   Full-stack healthcare assistant with Google ADK orchestrating 4+ specialized agents for symptom checking, appointment scheduling, insurance verification, and feedback collection.
   🔹 Multi-agent routing | 🔹 HITL safety flagging | 🔹 Real-time analytics dashboard | 🔹 Rate limiting | 🔹 React + FastAPI + SQLite
 
 - [**PlayGround App**](https://github.com/nadipaca/playground-app)                               
   React Native + Firebase powered social app enabling messaging, geolocation sharing, and gamified onboarding.  
   🔹 10+ screens | 🔹 Lazy loading | 🔹 Optimized image upload | 🔹 Tailwind + NativeWind
-
-- [**Naruto Infinite List**](https://github.com/nadipaca/Naruto-Infinite-List)  
-  The app is built with modern frontend tooling and aims to be a concise, easy-to-read example of how to implement infinite scrolling, lazy loading, and efficient list rendering in a TypeScript React codebase.
-
-- [**Sentiment Analyzer**](https://github.com/charish37/spring-sentiment-analyzer)  
-This repository provides a Spring-based backend that exposes an HTTP API to classify text sentiment (e.g., positive, negative, neutral) and return a confidence score.
 
 ---
 
